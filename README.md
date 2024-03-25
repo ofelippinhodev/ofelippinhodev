@@ -4,12 +4,16 @@
 - 💻 Atualmente estou trabalhando com Python
 - 📚 Atualmente estou estudando Analise e desenvolvimento de sistemas
 - 📫 Como entrar em contato comigo: Felippe.luccas@gmail.com
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofelippinhodev&show_icons=true&theme=tokyonight"
-  />
   
-<img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelippinhodev&layout=compact&langs_count=16&theme=tokyonight"
-  />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ofelippinhodev&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: tokyonight)" />
+  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofelippinhodev&show_icons=true&theme=tokyonight" />
+  
+   <img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelippinhodev&layout=compact&hide_progress=true&langs_count=8&theme=tokyonight" />
+</picture>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Feh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
