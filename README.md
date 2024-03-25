@@ -1,8 +1,8 @@
 ### Olá, sou o Felippe Luccas 👋
 
 
-- 🔭 Atualmente estou trabalhando com Python
-- 🌱 Atualmente estou estudando Analise e desenvolvimento de sistemas
+- 💻 Atualmente estou trabalhando com Python
+- 📚 Atualmente estou estudando Analise e desenvolvimento de sistemas
 - 📫 Como entrar em contato comigo: Felippe.luccas@gmail.com
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofelippinhodev&show_icons=true&theme=tokyonight"
