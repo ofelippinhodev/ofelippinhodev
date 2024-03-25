@@ -7,7 +7,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofelippinhodev&show_icons=true&theme=tokyonight"
   />
-<img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelippinhodev&layout=pie&theme=tokyonight"
+  
+<img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelippinhodev&layout=compact&langs_count=16&theme=tokyonight"
   />
 
 <div style="display: inline_block"><br>
